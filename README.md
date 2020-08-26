@@ -8,6 +8,7 @@ If in case, you find a correction in any of the questions, please do submit an i
 Although this repository contains questions, the purpose of it is to act as a temporary placeholder for storing questions. Future plan is to migrate questions to more robust database and make the questions accessible via a website.
 
 # Question List
+
 |S.No|Date|Topic|Link|
 |:---:|:---:|:---:|:---:|
 |1|03 August 2020|Object Types: R|[Link](./questions/q_03082020.md)|
