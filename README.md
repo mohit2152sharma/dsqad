@@ -3,11 +3,8 @@
 
 This is an accompanying repository for the questions posted on Twitter by the account, Data Science Question a Day. You can follow the twitter account [@data_question](https://twitter.com/data_question) for daily questions on Data Science, Machine Learning, R programming and Python (possibly in future).
 
-# How To Contribute?
-At present, I am not accepting any questions, primarily because I don't have a manageable system in place to accept user contributions. This will change with future releases.
-However, you are free to raise issues for any corrections you find in any of the questions.
+If in case, you find a correction in any of the questions, please do submit an issue request.
 
-# Disclaimer
 Although this repository contains questions, the purpose of it is to act as a temporary placeholder for storing questions. Future plan is to migrate questions to more robust database and make the questions accessible via a website.
 
 # Question List
