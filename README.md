@@ -9,7 +9,7 @@ Although this repository contains questions, the purpose of it is to act as a te
 
 # Question List
 |S.No|Date|Topic|Link|
-|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|
 |1|03 August 2020|Object Types: R|[Link](./questions/q_03082020.md)|
 |2|05 August 2020|Linear Regression,  R,  Interaction Effect|[Link](./questions/q_05082020.md)|
 |3|06 August 2020|Linear Regression|[Link](./questions/q_06082020.md)|
