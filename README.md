@@ -10,12 +10,7 @@ However, you are free to raise issues for any corrections you find in any of the
 # Disclaimer
 Although this repository contains questions, the purpose of it is to act as a temporary placeholder for storing questions. Future plan is to migrate questions to more robust database and make the questions accessible via a website.
 
-# License
-This project is licensed under the terms of MIT license.
-
-Following is the list of questions of questions, arranged by date and with a little short description of the question.
-
-## Question List
+# Question List
 |S.No|Date|Topic|Link|
 |:-:|:-:|:-:|:-:|
 |1|03 August 2020|Object Types: R|[Link](./questions/q_03082020.md)|
