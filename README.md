@@ -37,3 +37,6 @@ Although this repository contains questions, the purpose of it is to act as a te
 |24|27 August 2020|R programming,  `:` operator|[Link](./questions/q_27082020.md)|
 |25|28 August 2020|R programming,  `[` operator|[Link](./questions/q_28082020.md)|
 |26|31 July 2020|Welch's t-test|[Link](./questions/q_31072020.md)|
+|27|03 September 2020|Programming,  R,  Indexing|[Link](./questions/q_03092020.md)|
+|28|29 August 2020|Data Science,  Classification|[Link](./questions/q_29082020.md)|
+|29|31 August 2020|Programming,  R,  Indexing|[Link](./questions/q_31082020.md)|
