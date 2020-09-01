@@ -45,3 +45,6 @@ Although this repository contains questions, the purpose of it is to act as a te
 |32|02 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_02092020.md)|
 |33|04 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_04092020.md)|
 |34|05 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_05092020.md)|
+|35|06 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_06092020.md)|
+|36|07 September 2020|Programming,  R,  Indexing|[Link](./questions/q_07092020.md)|
+|37|08 September 2020|Programming,  R,  Indexing|[Link](./questions/q_08092020.md)|
