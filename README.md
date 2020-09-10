@@ -48,3 +48,4 @@ Although this repository contains questions, the purpose of it is to act as a te
 |35|05 August 2020|Linear Regression,  R,  Interaction Effect|[Link](./questions/q_05082020.md)|
 |36|03 August 2020|Object Types: R|[Link](./questions/q_03082020.md)|
 |37|31 July 2020|Welch's t-test|[Link](./questions/q_31072020.md)|
+|38|09 September 2020|Programming,  R,  S3 Class|[Link](./questions/q_09092020.md)|
