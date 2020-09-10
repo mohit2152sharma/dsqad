@@ -49,3 +49,4 @@ Although this repository contains questions, the purpose of it is to act as a te
 |36|03 August 2020|Object Types: R|[Link](./questions/q_03082020.md)|
 |37|31 July 2020|Welch's t-test|[Link](./questions/q_31072020.md)|
 |38|09 September 2020|Programming,  R,  S3 Class|[Link](./questions/q_09092020.md)|
+|39|10 September 2020|Data Science,  Probability and Statistics,  Normal Q-Q plot|[Link](./questions/q_10092020.md)|
