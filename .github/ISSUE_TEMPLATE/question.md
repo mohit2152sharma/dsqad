@@ -3,7 +3,7 @@ name: Question
 about: Please use this template to submit your question. The question provided will
   also be posted on twitter.
 title: Question
-labels: ''
+labels: question
 assignees: ''
 
 ---
