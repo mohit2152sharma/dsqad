@@ -15,7 +15,7 @@ Although this repository contains questions, the purpose of it is to act as a te
 |2|20 October 2020|Programming,  R,  `ifelse`|[Link](./questions/q_20102020.md)|
 |3|19 October 2020|Programming,  R,  `NA`|[Link](./questions/q_19102020.md)|
 |4|17 October 2020|Programming,  Python,  String|[Link](./questions/q_17102020.md)|
-|5|1666666 October 2020|Data Science,  Probability and Statistics,  Bootstrap|[Link](./questions/q_16102020.md)|
+|5|16 October 2020|Data Science,  Probability and Statistics,  Bootstrap|[Link](./questions/q_16102020.md)|
 |6|14 October 2020|Programming,  R,  Indexing|[Link](./questions/q_14102020.md)|
 |7|13 October 2020|Programming,  R,  List|[Link](./questions/q_13102020.md)|
 |8|12 October 2020|Programming,  R,  Length|[Link](./questions/q_12102020.md)|
