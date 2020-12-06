@@ -1,0 +1,5 @@
+library(ggplot2)
+df <- data.frame(x = rnorm(20000), y = rnorm(20000))
+norm <- ggplot(df, aes(x, y)) + xlab(NULL) + ylab(NULL)
+norm + geom_point()
+ggsave("../../images/questions/q_08122020.png", width=100, height=60, units='mm')
