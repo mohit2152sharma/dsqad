@@ -11,124 +11,125 @@ Although this repository contains questions, the purpose of it is to act as a te
 
 |S.No|Date|Topic|Link|
 |:---:|:---:|:---:|:---:|
-|1|12 December 2020|Programming,  Python,  Closure|[Link](./questions/q_12122020.md)|
-|2|07 December 2020|Programming,  R,  GGPlot|[Link](./questions/q_07122020.md)|
-|3|06 December 2020|Programming,  Python,  Scope|[Link](./questions/q_06122020.md)|
-|4|05 December 2020|Programming,  Python,  Scope|[Link](./questions/q_05122020.md)|
-|5|04 December 2020|Data Science,  Linear Algebra|[Link](./questions/q_04122020.md)|
-|6|03 December 2020|Data Science,  Linear Algebra|[Link](./questions/q_03122020.md)|
-|7|02 December 2020|Programming,  R,  GGPlot|[Link](./questions/q_02122020.md)|
-|8|01 December 2020|Programming,  R,  GGplot|[Link](./questions/q_01122020.md)|
-|9|30 November 2020|Programming,  R,  GGPlot|[Link](./questions/q_30112020.md)|
-|10|29 November 2020|Programming,  Python,  Functions|[Link](./questions/q_29112020.md)|
-|11|28 November 2020|Programming,  Python,  Arbitary Arguments|[Link](./questions/q_28112020.md)|
-|12|27 November 2020|Data Science,  Linear Algebra|[Link](./questions/q_27112020.md)|
-|13|26 November 2020|Data Science,  Linear Algebra|[Link](./questions/q_26112020.md)|
-|14|25 November 2020|Programming,  R,  Functions|[Link](./questions/q_25112020.md)|
-|15|24 November 2020|Programming,  R,  Functions|[Link](./questions/q_24112020.md)|
-|16|23 November 2020|Programming,  R,  `sample()`|[Link](./questions/q_23112020.md)|
-|17|22 November 2020|Programming,  Python,  Arbitary Arguments|[Link](./questions/q_22112020.md)|
-|18|21 November 2020|Programming,  Python,  Docstring|[Link](./questions/q_21112020.md)|
-|19|20 November 2020|Data Science,  ROC curve|[Link](./questions/q_20112020.md)|
-|20|19 November 2020|Data Science,  Conditional Probability|[Link](./questions/q_19112020.md)|
-|21|15 November 2020|Programming,  Python,  Global Variables|[Link](./questions/q_15112020.md)|
-|22|14 November 2020|Programming,  Python|[Link](./questions/q_14112020.md)|
-|23|13 November 2020|Data Science,  Recall|[Link](./questions/q_13112020.md)|
-|24|12 November 2020|Data Science,  Recall|[Link](./questions/q_12112020.md)|
-|25|11 November 2020|Programming,  R,  `ggplot()`|[Link](./questions/q_11112020.md)|
-|26|10 November 2020|Programming,  R,  `ggplot`|[Link](./questions/q_10112020.md)|
-|27|09 November 2020|Programming,  R,  `as.character()`|[Link](./questions/q_09112020.md)|
-|28|08 November 2020|Programming,  Python,  Loops|[Link](./questions/q_08112020.md)|
-|29|07 November 2020|Programming,  Python,  Logical|[Link](./questions/q_07112020.md)|
-|30|06 November 2020|Programming,  Python,  Control Statement|[Link](./questions/q_06112020.md)|
-|31|05 November 2020|Programming,  R,  Factor|[Link](./questions/q_05112020.md)|
-|32|04 November 2020|Programming,  R,  Factors|[Link](./questions/q_04112020.md)|
-|33|03 November 2020|Programming,  R,  `require()`|[Link](./questions/q_03112020.md)|
-|34|02 November 2020|Programming,  R,  `|`|[Link](./questions/q_02112020.md)|
-|35|29 October 2020|Programming,  R,  `double`|[Link](./questions/q_29102020.md)|
-|36|28 October 2020|Programming,  R,  `&`|[Link](./questions/q_28102020.md)|
-|37|27 October 2020|Programming,  R,  `NA`|[Link](./questions/q_27102020.md)|
-|38|26 October 2020|Programming,  R,  `NULL`|[Link](./questions/q_26102020.md)|
-|39|25 October 2020|Programming,  Python,  Strings|[Link](./questions/q_25102020.md)|
-|40|24 October 2020|Programming,  Python,  Data Types|[Link](./questions/q_24102020.md)|
-|41|23 October 2020|Data Science,  Linear Regression|[Link](./questions/q_23102020.md)|
-|42|22 October 2020|Programming,  R,  Linear Regression|[Link](./questions/q_22102020.md)|
-|43|21 October 2020|Programming,  R,  Anova and Linear Regression|[Link](./questions/q_21102020.md)|
-|44|20 October 2020|Programming,  R,  `ifelse`|[Link](./questions/q_20102020.md)|
-|45|19 October 2020|Programming,  R,  `NA`|[Link](./questions/q_19102020.md)|
-|46|18 October 2020|Programming,  Python,  Operators|[Link](./questions/q_18102020.md)|
-|47|17 October 2020|Programming,  Python,  String|[Link](./questions/q_17102020.md)|
-|48|16 October 2020|Data Science,  Probability and Statistics,  Bootstrap|[Link](./questions/q_16102020.md)|
-|49|14 October 2020|Programming,  R,  Indexing|[Link](./questions/q_14102020.md)|
-|50|13 October 2020|Programming,  R,  List|[Link](./questions/q_13102020.md)|
-|51|12 October 2020|Programming,  R,  Length|[Link](./questions/q_12102020.md)|
-|52|11 October 2020|Programming,  Python,  Strings|[Link](./questions/q_11102020.md)|
-|53|10 October 2020|Programming,  Python,  Strings|[Link](./questions/q_10102020.md)|
-|54|09 October 2020|Programming,  R,  Assignment|[Link](./questions/q_09102020.md)|
-|55|08 October 2020|Programming,  R,  `subset()`|[Link](./questions/q_08102020.md)|
-|56|07 October 2020|Programming,  R,  Booleans|[Link](./questions/q_07102020.md)|
-|57|06 October 2020|Programming,  R,  Operator Precedence|[Link](./questions/q_06102020.md)|
-|58|05 October 2020|Programming,  R,  `eval()` and `parse()`|[Link](./questions/q_05102020.md)|
-|59|04 October 2020|Programming,  R,  `is.vector()`|[Link](./questions/q_04102020.md)|
-|60|03 October 2020|Programming,  R,  `c()`|[Link](./questions/q_03102020.md)|
-|61|02 October 2020|Programming,  R,  `c()`|[Link](./questions/q_02102020.md)|
-|62|01 October 2020|Programming,  R,  Assignment Operator|[Link](./questions/q_01102020.md)|
-|63|30 September 2020|Programming,  R,  Vectors|[Link](./questions/q_30092020.md)|
-|64|29 September 2020|Programming,  R,  Variables|[Link](./questions/q_29092020.md)|
-|65|28 September 2020|Programming,  R,  functions|[Link](./questions/q_28092020.md)|
-|66|27 September 2020|Programming,  R,  Scoping|[Link](./questions/q_27092020.md)|
-|67|26 September 2020|Data Science,  Probability and Statistics,  Power|[Link](./questions/q_26092020.md)|
-|68|25 September 2020|Data Science,  Probability and Statistics,  Power|[Link](./questions/q_25092020.md)|
-|69|24 September 2020|Programming,  R,  Subsetting|[Link](./questions/q_24092020.md)|
-|70|23 September 2020|Data Science,  Probability and Statistics,  Uniform Distribution|[Link](./questions/q_23092020.md)|
-|71|22 September 2020|Programming,  R,  Variable Scoping|[Link](./questions/q_22092020.md)|
-|72|21 September 2020|Programming,  R,  Environments|[Link](./questions/q_21092020.md)|
-|73|20 September 2020|Data Science,  Probability and Statistics,  Bootstrap|[Link](./questions/q_20092020.md)|
-|74|19 September 2020|Programming,  R,  Super Assignment Operator|[Link](./questions/q_19092020.md)|
-|75|18 September 2020|Data Science,  Probability and Statistics,  Binomial Distribution|[Link](./questions/q_18092020.md)|
-|76|17 September 2020|Data Science,  Probability and Statistics,  Binomial Distribution|[Link](./questions/q_17092020.md)|
-|77|16 September 2020|Data Science,  Probability and Statistics,  Binomial Distribution|[Link](./questions/q_16092020.md)|
-|78|15 September 2020|Data Science,  Probability and Statistics,  Chi-squared Distribution|[Link](./questions/q_15092020.md)|
-|79|14 September 2020|Data Science,  Probability and Statistics,  Binomial Test|[Link](./questions/q_14092020.md)|
-|80|13 September 2020|Data Science,  Probability and Statistics,  Binomial Distribution|[Link](./questions/q_13092020.md)|
-|81|12 September 2020|Programming,  R,  `seq_along()`|[Link](./questions/q_12092020.md)|
-|82|11 September 2020|Programming,  R,  List|[Link](./questions/q_11092020.md)|
-|83|10 September 2020|Data Science,  Probability and Statistics,  Normal Q-Q plot|[Link](./questions/q_10092020.md)|
-|84|09 September 2020|Programming,  R,  S3 Class|[Link](./questions/q_09092020.md)|
-|85|08 September 2020|Programming,  R,  Indexing|[Link](./questions/q_08092020.md)|
-|86|07 September 2020|Programming,  R,  Indexing|[Link](./questions/q_07092020.md)|
-|87|06 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_06092020.md)|
-|88|05 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_05092020.md)|
-|89|04 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_04092020.md)|
-|90|03 September 2020|Programming,  R,  Indexing|[Link](./questions/q_03092020.md)|
-|91|02 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_02092020.md)|
-|92|01 September 2020|Data Science,  Probability and Statistics,  Type I error and Type II error|[Link](./questions/q_01092020.md)|
-|93|31 August 2020|Programming,  R,  Indexing|[Link](./questions/q_31082020.md)|
-|94|30 August 2020|Data Science,  Statstics,  Type 1 and Type 2 Error|[Link](./questions/q_30082020.md)|
-|95|29 August 2020|Data Science,  Classification|[Link](./questions/q_29082020.md)|
-|96|28 August 2020|R programming,  `[` operator|[Link](./questions/q_28082020.md)|
-|97|27 August 2020|R programming,  `:` operator|[Link](./questions/q_27082020.md)|
-|98|26 August 2020|ANOVA,  One way ANOVA,  Two way ANOVA|[Link](./questions/q_26082020.md)|
-|99|25 August 2020|R Programming,  Operator precedence|[Link](./questions/q_25082020.md)|
-|100|24 August 2020|F Distribution|[Link](./questions/q_24082020.md)|
-|101|23 August 2020|ANOVA,  Hypothesis Testing|[Link](./questions/q_23082020.md)|
-|102|22 August 2020|ANOVA, 	|[Link](./questions/q_22082020.md)|
-|103|21 August 2020|Normal Distribution|[Link](./questions/q_21082020.md)|
-|104|20 August 2020|One-way ANOVA|[Link](./questions/q_20082020.md)|
-|105|19 August 2020|R Programming,  `...` operator|[Link](./questions/q_19082020.md)|
-|106|18 August 2020|Probability,  Normal Distributions, 	|[Link](./questions/q_18082020.md)|
-|107|17 August 2020|R programming,  `all.equal()` Function|[Link](./questions/q_17082020.md)|
-|108|16 August 2020|Linear Regression|[Link](./questions/q_16082020.md)|
-|109|15 August 2020|R programming|[Link](./questions/q_15082020.md)|
-|110|14 August 2020|Spearman coefficient|[Link](./questions/q_14082020.md)|
-|111|13 August 2020|R programming,  Logical vectors|[Link](./questions/q_13082020.md)|
-|112|12 August 2020|F-Statistic test|[Link](./questions/q_12082020.md)|
-|113|11 August 2020|Pearson correlation coefficient|[Link](./questions/q_11082020.md)|
-|114|10 August 2020|Pearson Correlation Coefficient,  R square|[Link](./questions/q_10082020.md)|
-|115|09 August 2020|Ordinary Least Squares Fitting|[Link](./questions/q_09082020.md)|
-|116|08 August 2020|R square and Adjusted R square|[Link](./questions/q_08082020.md)|
-|117|07 August 2020|Linear Regression in R|[Link](./questions/q_07082020.md)|
-|118|06 August 2020|Linear Regression|[Link](./questions/q_06082020.md)|
-|119|05 August 2020|Linear Regression,  R,  Interaction Effect|[Link](./questions/q_05082020.md)|
-|120|03 August 2020|Object Types: R|[Link](./questions/q_03082020.md)|
-|121|31 July 2020|Welch's t-test|[Link](./questions/q_31072020.md)|
+|1|13 December 2020|Programming,  Python,  Objects|[Link](./questions/q_13122020.md)|
+|2|12 December 2020|Programming,  Python,  Closure|[Link](./questions/q_12122020.md)|
+|3|07 December 2020|Programming,  R,  GGPlot|[Link](./questions/q_07122020.md)|
+|4|06 December 2020|Programming,  Python,  Scope|[Link](./questions/q_06122020.md)|
+|5|05 December 2020|Programming,  Python,  Scope|[Link](./questions/q_05122020.md)|
+|6|04 December 2020|Data Science,  Linear Algebra|[Link](./questions/q_04122020.md)|
+|7|03 December 2020|Data Science,  Linear Algebra|[Link](./questions/q_03122020.md)|
+|8|02 December 2020|Programming,  R,  GGPlot|[Link](./questions/q_02122020.md)|
+|9|01 December 2020|Programming,  R,  GGplot|[Link](./questions/q_01122020.md)|
+|10|30 November 2020|Programming,  R,  GGPlot|[Link](./questions/q_30112020.md)|
+|11|29 November 2020|Programming,  Python,  Functions|[Link](./questions/q_29112020.md)|
+|12|28 November 2020|Programming,  Python,  Arbitary Arguments|[Link](./questions/q_28112020.md)|
+|13|27 November 2020|Data Science,  Linear Algebra|[Link](./questions/q_27112020.md)|
+|14|26 November 2020|Data Science,  Linear Algebra|[Link](./questions/q_26112020.md)|
+|15|25 November 2020|Programming,  R,  Functions|[Link](./questions/q_25112020.md)|
+|16|24 November 2020|Programming,  R,  Functions|[Link](./questions/q_24112020.md)|
+|17|23 November 2020|Programming,  R,  `sample()`|[Link](./questions/q_23112020.md)|
+|18|22 November 2020|Programming,  Python,  Arbitary Arguments|[Link](./questions/q_22112020.md)|
+|19|21 November 2020|Programming,  Python,  Docstring|[Link](./questions/q_21112020.md)|
+|20|20 November 2020|Data Science,  ROC curve|[Link](./questions/q_20112020.md)|
+|21|19 November 2020|Data Science,  Conditional Probability|[Link](./questions/q_19112020.md)|
+|22|15 November 2020|Programming,  Python,  Global Variables|[Link](./questions/q_15112020.md)|
+|23|14 November 2020|Programming,  Python|[Link](./questions/q_14112020.md)|
+|24|13 November 2020|Data Science,  Recall|[Link](./questions/q_13112020.md)|
+|25|12 November 2020|Data Science,  Recall|[Link](./questions/q_12112020.md)|
+|26|11 November 2020|Programming,  R,  `ggplot()`|[Link](./questions/q_11112020.md)|
+|27|10 November 2020|Programming,  R,  `ggplot`|[Link](./questions/q_10112020.md)|
+|28|09 November 2020|Programming,  R,  `as.character()`|[Link](./questions/q_09112020.md)|
+|29|08 November 2020|Programming,  Python,  Loops|[Link](./questions/q_08112020.md)|
+|30|07 November 2020|Programming,  Python,  Logical|[Link](./questions/q_07112020.md)|
+|31|06 November 2020|Programming,  Python,  Control Statement|[Link](./questions/q_06112020.md)|
+|32|05 November 2020|Programming,  R,  Factor|[Link](./questions/q_05112020.md)|
+|33|04 November 2020|Programming,  R,  Factors|[Link](./questions/q_04112020.md)|
+|34|03 November 2020|Programming,  R,  `require()`|[Link](./questions/q_03112020.md)|
+|35|02 November 2020|Programming,  R,  `|`|[Link](./questions/q_02112020.md)|
+|36|29 October 2020|Programming,  R,  `double`|[Link](./questions/q_29102020.md)|
+|37|28 October 2020|Programming,  R,  `&`|[Link](./questions/q_28102020.md)|
+|38|27 October 2020|Programming,  R,  `NA`|[Link](./questions/q_27102020.md)|
+|39|26 October 2020|Programming,  R,  `NULL`|[Link](./questions/q_26102020.md)|
+|40|25 October 2020|Programming,  Python,  Strings|[Link](./questions/q_25102020.md)|
+|41|24 October 2020|Programming,  Python,  Data Types|[Link](./questions/q_24102020.md)|
+|42|23 October 2020|Data Science,  Linear Regression|[Link](./questions/q_23102020.md)|
+|43|22 October 2020|Programming,  R,  Linear Regression|[Link](./questions/q_22102020.md)|
+|44|21 October 2020|Programming,  R,  Anova and Linear Regression|[Link](./questions/q_21102020.md)|
+|45|20 October 2020|Programming,  R,  `ifelse`|[Link](./questions/q_20102020.md)|
+|46|19 October 2020|Programming,  R,  `NA`|[Link](./questions/q_19102020.md)|
+|47|18 October 2020|Programming,  Python,  Operators|[Link](./questions/q_18102020.md)|
+|48|17 October 2020|Programming,  Python,  String|[Link](./questions/q_17102020.md)|
+|49|16 October 2020|Data Science,  Probability and Statistics,  Bootstrap|[Link](./questions/q_16102020.md)|
+|50|14 October 2020|Programming,  R,  Indexing|[Link](./questions/q_14102020.md)|
+|51|13 October 2020|Programming,  R,  List|[Link](./questions/q_13102020.md)|
+|52|12 October 2020|Programming,  R,  Length|[Link](./questions/q_12102020.md)|
+|53|11 October 2020|Programming,  Python,  Strings|[Link](./questions/q_11102020.md)|
+|54|10 October 2020|Programming,  Python,  Strings|[Link](./questions/q_10102020.md)|
+|55|09 October 2020|Programming,  R,  Assignment|[Link](./questions/q_09102020.md)|
+|56|08 October 2020|Programming,  R,  `subset()`|[Link](./questions/q_08102020.md)|
+|57|07 October 2020|Programming,  R,  Booleans|[Link](./questions/q_07102020.md)|
+|58|06 October 2020|Programming,  R,  Operator Precedence|[Link](./questions/q_06102020.md)|
+|59|05 October 2020|Programming,  R,  `eval()` and `parse()`|[Link](./questions/q_05102020.md)|
+|60|04 October 2020|Programming,  R,  `is.vector()`|[Link](./questions/q_04102020.md)|
+|61|03 October 2020|Programming,  R,  `c()`|[Link](./questions/q_03102020.md)|
+|62|02 October 2020|Programming,  R,  `c()`|[Link](./questions/q_02102020.md)|
+|63|01 October 2020|Programming,  R,  Assignment Operator|[Link](./questions/q_01102020.md)|
+|64|30 September 2020|Programming,  R,  Vectors|[Link](./questions/q_30092020.md)|
+|65|29 September 2020|Programming,  R,  Variables|[Link](./questions/q_29092020.md)|
+|66|28 September 2020|Programming,  R,  functions|[Link](./questions/q_28092020.md)|
+|67|27 September 2020|Programming,  R,  Scoping|[Link](./questions/q_27092020.md)|
+|68|26 September 2020|Data Science,  Probability and Statistics,  Power|[Link](./questions/q_26092020.md)|
+|69|25 September 2020|Data Science,  Probability and Statistics,  Power|[Link](./questions/q_25092020.md)|
+|70|24 September 2020|Programming,  R,  Subsetting|[Link](./questions/q_24092020.md)|
+|71|23 September 2020|Data Science,  Probability and Statistics,  Uniform Distribution|[Link](./questions/q_23092020.md)|
+|72|22 September 2020|Programming,  R,  Variable Scoping|[Link](./questions/q_22092020.md)|
+|73|21 September 2020|Programming,  R,  Environments|[Link](./questions/q_21092020.md)|
+|74|20 September 2020|Data Science,  Probability and Statistics,  Bootstrap|[Link](./questions/q_20092020.md)|
+|75|19 September 2020|Programming,  R,  Super Assignment Operator|[Link](./questions/q_19092020.md)|
+|76|18 September 2020|Data Science,  Probability and Statistics,  Binomial Distribution|[Link](./questions/q_18092020.md)|
+|77|17 September 2020|Data Science,  Probability and Statistics,  Binomial Distribution|[Link](./questions/q_17092020.md)|
+|78|16 September 2020|Data Science,  Probability and Statistics,  Binomial Distribution|[Link](./questions/q_16092020.md)|
+|79|15 September 2020|Data Science,  Probability and Statistics,  Chi-squared Distribution|[Link](./questions/q_15092020.md)|
+|80|14 September 2020|Data Science,  Probability and Statistics,  Binomial Test|[Link](./questions/q_14092020.md)|
+|81|13 September 2020|Data Science,  Probability and Statistics,  Binomial Distribution|[Link](./questions/q_13092020.md)|
+|82|12 September 2020|Programming,  R,  `seq_along()`|[Link](./questions/q_12092020.md)|
+|83|11 September 2020|Programming,  R,  List|[Link](./questions/q_11092020.md)|
+|84|10 September 2020|Data Science,  Probability and Statistics,  Normal Q-Q plot|[Link](./questions/q_10092020.md)|
+|85|09 September 2020|Programming,  R,  S3 Class|[Link](./questions/q_09092020.md)|
+|86|08 September 2020|Programming,  R,  Indexing|[Link](./questions/q_08092020.md)|
+|87|07 September 2020|Programming,  R,  Indexing|[Link](./questions/q_07092020.md)|
+|88|06 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_06092020.md)|
+|89|05 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_05092020.md)|
+|90|04 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_04092020.md)|
+|91|03 September 2020|Programming,  R,  Indexing|[Link](./questions/q_03092020.md)|
+|92|02 September 2020|Data Science,  Probability and Statistics,  Type 1 error and Type 2 error|[Link](./questions/q_02092020.md)|
+|93|01 September 2020|Data Science,  Probability and Statistics,  Type I error and Type II error|[Link](./questions/q_01092020.md)|
+|94|31 August 2020|Programming,  R,  Indexing|[Link](./questions/q_31082020.md)|
+|95|30 August 2020|Data Science,  Statstics,  Type 1 and Type 2 Error|[Link](./questions/q_30082020.md)|
+|96|29 August 2020|Data Science,  Classification|[Link](./questions/q_29082020.md)|
+|97|28 August 2020|R programming,  `[` operator|[Link](./questions/q_28082020.md)|
+|98|27 August 2020|R programming,  `:` operator|[Link](./questions/q_27082020.md)|
+|99|26 August 2020|ANOVA,  One way ANOVA,  Two way ANOVA|[Link](./questions/q_26082020.md)|
+|100|25 August 2020|R Programming,  Operator precedence|[Link](./questions/q_25082020.md)|
+|101|24 August 2020|F Distribution|[Link](./questions/q_24082020.md)|
+|102|23 August 2020|ANOVA,  Hypothesis Testing|[Link](./questions/q_23082020.md)|
+|103|22 August 2020|ANOVA, 	|[Link](./questions/q_22082020.md)|
+|104|21 August 2020|Normal Distribution|[Link](./questions/q_21082020.md)|
+|105|20 August 2020|One-way ANOVA|[Link](./questions/q_20082020.md)|
+|106|19 August 2020|R Programming,  `...` operator|[Link](./questions/q_19082020.md)|
+|107|18 August 2020|Probability,  Normal Distributions, 	|[Link](./questions/q_18082020.md)|
+|108|17 August 2020|R programming,  `all.equal()` Function|[Link](./questions/q_17082020.md)|
+|109|16 August 2020|Linear Regression|[Link](./questions/q_16082020.md)|
+|110|15 August 2020|R programming|[Link](./questions/q_15082020.md)|
+|111|14 August 2020|Spearman coefficient|[Link](./questions/q_14082020.md)|
+|112|13 August 2020|R programming,  Logical vectors|[Link](./questions/q_13082020.md)|
+|113|12 August 2020|F-Statistic test|[Link](./questions/q_12082020.md)|
+|114|11 August 2020|Pearson correlation coefficient|[Link](./questions/q_11082020.md)|
+|115|10 August 2020|Pearson Correlation Coefficient,  R square|[Link](./questions/q_10082020.md)|
+|116|09 August 2020|Ordinary Least Squares Fitting|[Link](./questions/q_09082020.md)|
+|117|08 August 2020|R square and Adjusted R square|[Link](./questions/q_08082020.md)|
+|118|07 August 2020|Linear Regression in R|[Link](./questions/q_07082020.md)|
+|119|06 August 2020|Linear Regression|[Link](./questions/q_06082020.md)|
+|120|05 August 2020|Linear Regression,  R,  Interaction Effect|[Link](./questions/q_05082020.md)|
+|121|03 August 2020|Object Types: R|[Link](./questions/q_03082020.md)|
+|122|31 July 2020|Welch's t-test|[Link](./questions/q_31072020.md)|
